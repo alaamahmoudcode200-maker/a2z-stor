@@ -50,7 +50,7 @@ export default function FeaturedProductsSection() {
           </Link>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 text-black md:grid-cols-2 lg:grid-cols-4 gap-6">
           {products.map((product, index) => (
             <ProductCard key={index} {...product} />
           ))}
