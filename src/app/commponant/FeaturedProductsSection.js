@@ -9,21 +9,21 @@ export default function FeaturedProductsSection() {
       badge: "50% خصم",
       img: "/sa1.png", title: "ساعة ذكية فاخرة",
       stars: 4.5,
-      price: "299 ر.س",
-      oldPrice: "599 ر.س",
+      price: "299 جنيه",
+      oldPrice: "599 جنيه",
     },
     {
       badge: "30% خصم",
             img: "/sa1.png",title: "حذاء رياضي مريح",
       stars: 4.0,
-      price: "210 ر.س",
-      oldPrice: "300 ر.س",
+      price: "210 جنيه",
+      oldPrice: "300 جنيه",
     },
     {
       badge: "جديد",
             img: "/sa1.png", title: "سماعات لاسلكية",
       stars: 5.0,
-      price: "450 ر.س",
+      price: "450 جنيه",
       oldPrice: null,
     },
     {
@@ -31,8 +31,8 @@ export default function FeaturedProductsSection() {
       img: "/sa1.png",
       title: "نظارات شمسية",
       stars: 4.5,
-      price: "150 ر.س",
-      oldPrice: "200 ر.س",
+      price: "150 جنيه",
+      oldPrice: "200 جنيه",
     },
   ]
 
